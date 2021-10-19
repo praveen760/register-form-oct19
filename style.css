@@ -1,0 +1,42 @@
+body{
+    background-color:aqua;
+    box-sizing: border-box;
+}
+.task{
+    margin-left: 450px;
+    margin-top: 30px;
+    margin-right: 600px;
+    padding:100px;
+    background-color: violet;
+}
+.btn{
+    background-color: blue;
+    width:70%; 
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+}
+.form{
+    font-size:larger;
+}
+#username{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:90%;
+}
+#email{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:90%;
+}
+#password1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:90%;
+}
+#password2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width:90%;
+}
